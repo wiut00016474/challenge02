@@ -1,0 +1,9 @@
+# Foydalanuvchidan son kiritishni so'raymiz
+#son = int(input("Iltimos, biror bir son kiriting: "))
+
+## Juft yoki toqligini tekshiramiz
+#if son % 2 == 0:
+#3#3   print("Son juft")
+#else:
+#    print("Son toq")
+

@@ -1,0 +1,13 @@
+# Foydalanuvchidan son kiritishni so'raymiz
+#son = int(input("Iltimos, biror bir son kiriting: "))
+
+# Juft yoki toqligini tekshiramiz
+#if son % 2 == 0:
+ #   print("Son juft")
+#else:
+  #  print("Son toq")
+
+
+Hint : It will help you 
+  base64   --decode 
+
